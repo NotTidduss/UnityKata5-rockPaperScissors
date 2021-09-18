@@ -1,15 +1,11 @@
 Unity Kata #5 - Rock Paper Scissors
 
-TODO
- - Hand Model (quick prototype made of primitve cubes)
- - Animations
- - menu to choose rock, paper or scissors
- - result screen with playAgain
- 
-Flow
- 1) select what to play
- 2) animations happen
- 3) results 5 secs later
- 
-Goal
- - win with the classic rock
+Current features:
+ * basic selection between Rock, Paper and Scissors
+ * makeshift handmodels with simple animations
+ * determining results
+
+ToDo:
+- learn blender, create hands
+- fix lighting upon scene reload
+- create new visuals

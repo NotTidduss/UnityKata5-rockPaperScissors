@@ -6,9 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Init.unity
+    path: Assets/Scenes/0x_RPS_Init.unity
     guid: c34e40596cc5dd648bb02991855a80b9
   - enabled: 1
-    path: Assets/Scenes/Main.unity
+    path: Assets/Scenes/1x_RockPaperScissors.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   m_configObjects: {}
